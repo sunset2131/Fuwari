@@ -1,9 +1,10 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+刚刚开始经营的小站，有什么请通过社交链接联系我
 
-::github{repo="saicaca/fuwari"}
+通过导出Notion的内容建立起来的小站（因为Notion自定义域名要💴），可以通过下面的工具来优化Notion导出的内容
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+::github{repo="sunset2131/Better-export-for-notion"}
+
+此站建于 2025/03/09
+
+现在还在监修中....

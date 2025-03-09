@@ -11,7 +11,7 @@ export const siteConfig: SiteConfig = {
   subtitle: '记录',
   lang: 'zh_CN',         // 语言 Language ('en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th')
   themeColor: {
-    hue: 250,         // 默认主题颜色的色相，范围 0 到 360 Default hue for the theme color, from 0 to 360
+    hue: 270,         // 默认主题颜色的色相，范围 0 到 360 Default hue for the theme color, from 0 to 360
     fixed: false,     // 隐藏访客的主题颜色选择器 Hide the theme color picker for visitors
   },
   banner: {
@@ -51,21 +51,22 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/demo-avatar.png',  // 头像路径，相对于 /src 目录 Path of the avatar image, relative to the /src directory
+  avatar: 'assets/images/avatar.jpg',  // 头像路径，相对于 /src 目录 Path of the avatar image, relative to the /src directory
   name: 'Sunset',
-  bio: 'Sunset dolor sit amet, consectetur adipiscing elit.',
+  bio: '刚开始经营的小站',
   links: [
-    {
-      name: 'Twitter',
-      icon: 'fa6-brands:twitter',       // 图标代码（https://icones.js.org/） Icon code (https://icones.js.org/)
-                                        // 可能需要安装对应的图标集 You may need to install the corresponding icon set
-                                        // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://twitter.com',
-    },
+    // {
+    //   name: 'Twitter',
+    //   icon: 'fa6-brands:twitter',
+    //   // 图标代码（https://icones.js.org/） Icon code (https://icones.js.org/)
+    //                                     // 可能需要安装对应的图标集 You may need to install the corresponding icon set
+    //                                     // `pnpm add @iconify-json/<icon-set-name>`
+    //   url: 'https://twitter.com',
+    // },
     {
       name: 'Steam',
       icon: 'fa6-brands:steam',
-      url: 'https://store.steampowered.com',
+      url: 'https://steamcommunity.com/profiles/76561199016316702/',
     },
     {
       name: 'GitHub',
