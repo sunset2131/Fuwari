@@ -1,6 +1,6 @@
 ---
 title: Vulnhub-SecTalks：BNE0x00 - Minotaur
-published: 2025-03-09
+published: 2025-03-09 16:17:52
 tags: [Vulnhub]
 category: 靶机
 draft: false
