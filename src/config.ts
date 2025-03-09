@@ -8,7 +8,7 @@ import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
   title: 'Sunset\'s Blog',
-  subtitle: '记录学习',
+  subtitle: '记录',
   lang: 'zh_CN',         // 语言 Language ('en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th')
   themeColor: {
     hue: 250,         // 默认主题颜色的色相，范围 0 到 360 Default hue for the theme color, from 0 to 360
